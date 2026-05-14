@@ -28,7 +28,7 @@ The project was created to simplify the creation, deployment and management of M
 
 ## Modern UI
 - Built with React + TypeScript
-- Desktop support using Electron/Tauri
+- Desktop support using Electron
 - Modern and responsive interface
 
 ## Infrastructure Goals
@@ -47,7 +47,7 @@ The project was created to simplify the creation, deployment and management of M
 - React
 - TypeScript
 - Material UI
-- Electron / Tauri
+- Electron
 
 ## Backend
 - ASP.NET Core
