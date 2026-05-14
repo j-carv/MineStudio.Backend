@@ -1,0 +1,6 @@
+@MineStudio.Agent_HostAddress = http://localhost:5127
+
+GET {{MineStudio.Agent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
